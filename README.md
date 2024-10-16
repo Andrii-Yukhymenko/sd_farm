@@ -1,0 +1,5 @@
+```
+TELEGRAM_ID=YOUR_ID
+MIN=300
+MAX=1000
+```
